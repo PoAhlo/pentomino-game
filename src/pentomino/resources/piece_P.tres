@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PentominoData" load_steps=3 format=3 uid="uid://b42swbxebtvyw"]
+
+[ext_resource type="Script" uid="uid://vqmpmecdo23l" path="res://src/pentomino/PentominoData.gd" id="1_8jxjb"]
+[ext_resource type="Texture2D" uid="uid://dcqpfyo3kivap" path="res://assets/textures/icon.svg" id="2_tjigh"]
+
+[resource]
+script = ExtResource("1_8jxjb")
+name = "P-piece"
+texture = ExtResource("2_tjigh")
+coordinates = Array[Vector2i]([Vector2i(-1, 1), Vector2i(-1, -1), Vector2i(0, 0), Vector2i(0, -1), Vector2i(1, -1)])
+metadata/_custom_type_script = "uid://vqmpmecdo23l"
