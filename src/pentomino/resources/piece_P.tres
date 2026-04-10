@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="PentominoData" load_steps=2 format=3 uid="uid://bcu42ihm2jwu7"]
+
+[ext_resource type="Script" uid="uid://vqmpmecdo23l" path="res://src/pentomino/PentominoData.gd" id="1_8jxjb"]
+
+[resource]
+script = ExtResource("1_8jxjb")
+name = "P-piece"
+color = Color(0.961708, 0.868933, 0.150359, 1)
+coordinates = Array[Vector2i]([Vector2i(-1, -1), Vector2i(0, -1), Vector2i(-1, 0), Vector2i(0, 0), Vector2i(0, 1)])
+metadata/_custom_type_script = "uid://vqmpmecdo23l"
