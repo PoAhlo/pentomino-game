@@ -1,10 +1,9 @@
-[gd_resource type="Resource" script_class="PentominoData" load_steps=2 format=3 uid="uid://duwumr5xh1igw"]
+[gd_resource type="Resource" script_class="PentominoData" format=3 uid="uid://duwumr5xh1igw"]
 
-[ext_resource type="Script" uid="uid://vqmpmecdo23l" path="res://src/pentomino/PentominoData.gd" id="1_67huc"]
+[ext_resource type="Script" uid="uid://mfjyohj7618e" path="res://src/pentomino/PentominoData.gd" id="1_67huc"]
 
 [resource]
 script = ExtResource("1_67huc")
 name = "L-piece"
-color = Color(1, 0.65098, 0.788235, 1)
+atlas_coords = Vector2i(2, 0)
 coordinates = Array[Vector2i]([Vector2i(-2, 0), Vector2i(-1, 0), Vector2i(0, 0), Vector2i(1, 0), Vector2i(1, -1)])
-metadata/_custom_type_script = "uid://vqmpmecdo23l"
