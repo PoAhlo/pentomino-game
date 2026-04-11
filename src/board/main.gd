@@ -34,7 +34,7 @@ func draw_piece(data: PentominoData, pos: Vector2i) -> void:
 	
 	for coord in data.coordinates:
 		var target_grid_pos = pos + coord
-		active_layer.set_cell(target_grid_pos, block_source_id, Vector2i(0, 0))
+		active_layer.set_cell(target_grid_pos, block_source_id, data.atlas_coords)
 
 func rotate_piece_clockwise() -> void:
 	# Traditional Tetris Matrix Rotation: (x, y) -> (-y, x)

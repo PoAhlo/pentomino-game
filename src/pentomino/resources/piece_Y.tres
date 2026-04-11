@@ -1,10 +1,9 @@
-[gd_resource type="Resource" script_class="PentominoData" load_steps=2 format=3 uid="uid://dly1q3mcy1gs7"]
+[gd_resource type="Resource" script_class="PentominoData" format=3 uid="uid://dly1q3mcy1gs7"]
 
-[ext_resource type="Script" uid="uid://vqmpmecdo23l" path="res://src/pentomino/PentominoData.gd" id="1_fk266"]
+[ext_resource type="Script" uid="uid://mfjyohj7618e" path="res://src/pentomino/PentominoData.gd" id="1_fk266"]
 
 [resource]
 script = ExtResource("1_fk266")
 name = "Y-piece"
-color = Color(0.00619999, 0.31, 0.274557, 1)
+atlas_coords = Vector2i(2, 2)
 coordinates = Array[Vector2i]([Vector2i(-2, 0), Vector2i(-1, 0), Vector2i(0, -1), Vector2i(0, 0), Vector2i(1, 0)])
-metadata/_custom_type_script = "uid://vqmpmecdo23l"

@@ -1,10 +1,9 @@
-[gd_resource type="Resource" script_class="PentominoData" load_steps=2 format=3 uid="uid://gdwmfq4glhct"]
+[gd_resource type="Resource" script_class="PentominoData" format=3 uid="uid://gdwmfq4glhct"]
 
-[ext_resource type="Script" uid="uid://vqmpmecdo23l" path="res://src/pentomino/PentominoData.gd" id="1_og2mj"]
+[ext_resource type="Script" uid="uid://mfjyohj7618e" path="res://src/pentomino/PentominoData.gd" id="1_og2mj"]
 
 [resource]
 script = ExtResource("1_og2mj")
 name = "T-piece"
-color = Color(0.423529, 0.231373, 0.666667, 1)
+atlas_coords = Vector2i(1, 1)
 coordinates = Array[Vector2i]([Vector2i(-1, -1), Vector2i(0, -1), Vector2i(1, -1), Vector2i(0, 0), Vector2i(0, 1)])
-metadata/_custom_type_script = "uid://vqmpmecdo23l"
