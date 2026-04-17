@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PentominoData" format=3 uid="uid://dcuunuo5guxrt"]
 
-[ext_resource type="Script" uid="uid://cp6bdagj8hpe2" path="res://src/pentomino/PentominoData.gd" id="1_f6xf3"]
+[ext_resource type="Script" uid="uid://mfjyohj7618e" path="res://src/pentomino/PentominoData.gd" id="1_f6xf3"]
 
 [resource]
 script = ExtResource("1_f6xf3")

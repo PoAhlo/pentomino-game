@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="PentominoLibrary" format=3 uid="uid://cumryar2uo7gf"]
 
-[ext_resource type="Script" uid="uid://cp6bdagj8hpe2" path="res://src/pentomino/PentominoData.gd" id="1_cqome"]
+[ext_resource type="Script" uid="uid://mfjyohj7618e" path="res://src/pentomino/PentominoData.gd" id="1_cqome"]
 [ext_resource type="Resource" uid="uid://dcuunuo5guxrt" path="res://src/pentomino/resources/piece_F.tres" id="2_grvqb"]
 [ext_resource type="Script" uid="uid://d34g5e364dm00" path="res://src/pentomino/PentominoLibrary.gd" id="2_nvk5s"]
 [ext_resource type="Resource" uid="uid://cahnwx01b4wdo" path="res://src/pentomino/resources/piece_I.tres" id="3_cy2d6"]
