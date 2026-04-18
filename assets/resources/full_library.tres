@@ -1,0 +1,21 @@
+[gd_resource type="Resource" script_class="PentominoLibrary" format=3 uid="uid://cumryar2uo7gf"]
+
+[ext_resource type="Script" uid="uid://mfjyohj7618e" path="res://src/pentomino/PentominoData.gd" id="1_cqome"]
+[ext_resource type="Resource" uid="uid://dcuunuo5guxrt" path="res://assets/resources/piece_F.tres" id="2_grvqb"]
+[ext_resource type="Script" uid="uid://d34g5e364dm00" path="res://src/pentomino/PentominoLibrary.gd" id="2_nvk5s"]
+[ext_resource type="Resource" uid="uid://cahnwx01b4wdo" path="res://assets/resources/piece_I.tres" id="3_cy2d6"]
+[ext_resource type="Resource" uid="uid://duwumr5xh1igw" path="res://assets/resources/piece_L.tres" id="4_4lj2v"]
+[ext_resource type="Resource" uid="uid://dxxtbyahah045" path="res://assets/resources/piece_N.tres" id="5_uuooq"]
+[ext_resource type="Resource" uid="uid://bcu42ihm2jwu7" path="res://assets/resources/piece_P.tres" id="6_v5yn6"]
+[ext_resource type="Resource" uid="uid://gdwmfq4glhct" path="res://assets/resources/piece_T.tres" id="7_fimnj"]
+[ext_resource type="Resource" uid="uid://lc1cki4gvcq7" path="res://assets/resources/piece_U.tres" id="8_b4r5v"]
+[ext_resource type="Resource" uid="uid://cyrcmbjwn8ads" path="res://assets/resources/piece_V.tres" id="9_bglul"]
+[ext_resource type="Resource" uid="uid://cwgxaenc23tly" path="res://assets/resources/piece_W.tres" id="10_41ekw"]
+[ext_resource type="Resource" uid="uid://dlkcr0hiuvcme" path="res://assets/resources/piece_X.tres" id="11_7o2x0"]
+[ext_resource type="Resource" uid="uid://dly1q3mcy1gs7" path="res://assets/resources/piece_Y.tres" id="12_ewhct"]
+[ext_resource type="Resource" uid="uid://dxy7k30omctrh" path="res://assets/resources/piece_Z.tres" id="13_2owda"]
+
+[resource]
+script = ExtResource("2_nvk5s")
+pieces = Array[ExtResource("1_cqome")]([ExtResource("2_grvqb"), ExtResource("3_cy2d6"), ExtResource("4_4lj2v"), ExtResource("5_uuooq"), ExtResource("6_v5yn6"), ExtResource("7_fimnj"), ExtResource("8_b4r5v"), ExtResource("9_bglul"), ExtResource("10_41ekw"), ExtResource("11_7o2x0"), ExtResource("12_ewhct"), ExtResource("13_2owda")])
+metadata/_custom_type_script = "uid://d34g5e364dm00"
